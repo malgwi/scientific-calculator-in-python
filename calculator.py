@@ -5,7 +5,7 @@ while True:
     print("Enter '+' to add two numbers.")
     print("Enter '-' to subtract two numbers.")
     print("Enter '*' to multiply two numbers.")
-    print("Enter '/' to dividce two numbers.")
+    print("Enter '/' to divid two numbers.")
     print("Else enter 'EXIT' to end program")
     user_input=input("")
  
@@ -36,7 +36,7 @@ while True:
         print('The answer is: '+result)
         break
     else:
-        print("Unknown input Silly")
+        print("Unknown input")
         break
  
 print("\n\n Powered by Santos")
